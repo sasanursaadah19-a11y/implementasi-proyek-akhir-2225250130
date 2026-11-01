@@ -1,0 +1,3 @@
+Ani,80.0,Lulus
+Budi,70.0,Tidak Lulus
+Citra,90.0,Lulus
